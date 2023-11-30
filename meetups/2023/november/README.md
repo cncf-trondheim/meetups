@@ -35,13 +35,13 @@ And a kind reminder to update your RSVP if you have changed your mind or can no 
 
 #### 17:00 - 17:30 Doors open: pizza & beer
 
-#### 17:30 - 18:15 Unlocking Next-Gen Networking and Security with Cilium Service Mesh in Kubernetes Environments - Raymond de Jong
+#### 17:30 - 18:15 Unlocking Next-Gen Networking and Security with Cilium Service Mesh in Kubernetes Environments - [Raymond de Jong](https://www.linkedin.com/in/dejongraymond/)
 
 This talk dives deep into Cilium Service Mesh, exploring its unique eBPF-based architecture for enhancing networking, observability, and security in Kubernetes clusters. Attendees will gain practical insights into Cilium's capabilities and how to deploy it in production environments.
 
 #### 18:15 - 18:30 Short break
 
-#### 18:30 - 19:00 Enabling 200 teams to make 1.600 deployments to production each week at the NAV - Hans Kristian
+#### 18:30 - 19:00 Enabling 200 teams to make 1.600 deployments to production each week at the NAV - [Hans Kristian](https://www.linkedin.com/in/hansflaatten/)
 
 In this talk we dig deep on how NAV is enabling their 200 product development teams to deploy continuously and at any time of the week to production to enable increased development speed and flow with our NAIS platform.
 We will follow a code deployment through all it’s stages from development, deployment until running in one of our Kubernetes clusters and becoming available to you as a citizen as a part of the welfare services we provide to all of Norway.
