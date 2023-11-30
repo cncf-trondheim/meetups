@@ -3,7 +3,7 @@
 ## Presentations
 
 - [Unlocking Next-Gen Networking and Security with Cilium Service Mesh in Kubernetes Environments - Raymond de Jong](./Cloud-Native-Meetup-Oslo--Trondheim-Cilium-Service-Mesh.pdf)
-- [insert link here]
+- [Enabling 200 teams to make 1.600 deployments to production each week at the NAV - Hans Kristian](./NAIS-from-Localhost-to-Prod.pdf)
 
 ## Date and time
 
